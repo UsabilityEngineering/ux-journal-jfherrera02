@@ -1,6 +1,6 @@
-# UX Portfolio
+# Jose's UX Portfolio
 
-About me...
+I am a computer science student from Los Angeles looking to pursue a career in software engineering. 
 
 ## UX Team Project
 
