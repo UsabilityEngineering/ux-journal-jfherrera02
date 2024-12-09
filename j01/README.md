@@ -4,7 +4,7 @@ By Jose Herrera
 Recently, my friends and I started making plans to go on a trip to Japan, so I started to look for flights through my credit card's travel portal. The end goal was to find the best flights available for us at the cheapest price possible as we are university students trying to save money. 
 When I was first presented with the menu, I was pleased at how straightforward it was. All I had to do was select the dates, locations, and the type of flight in order to begin my search. 
 
-![Pic_1](assets/booking_1.png "Pic 1")
+![Pic_1](main/assets/booking_1.png "Pic 1")
 
 I was then presented with a incredibly **useful** feature that presented the dates in a color coded format showcasing the varying prices of the flight to my destination. This was not something I would typically see in many other booking websites so I was very happy to see this feature.
 
