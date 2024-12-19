@@ -6,8 +6,7 @@ I am a computer science student from Los Angeles looking to pursue a career in s
 
 ## UX Team Project
 
-Coming soon.
-
+**[FightMe!]([https://github.com/UsabilityEngineering/ux-journal-jfherrera02](https://github.com/ChicoState/ux-FightMe/blob/main/README.md)/)**
 ## UX Journal
 
 [Booking a Flight](j01/)
